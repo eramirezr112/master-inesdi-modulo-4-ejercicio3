@@ -1,1 +1,3 @@
-# master-inesdi-modulo-4-ejercicio3
+# todo-list
+
+INESDI - MODULO 4 - Front-End frameworks | Semana 02 | Ejercicio: To Do List
